@@ -22,3 +22,12 @@
 .services-page .aboutus_banner img{
     object-fit: cover !important;
 }
+.custom-chatbots-banner{
+    background-image: url('../images/custom-chatbots-1.jpg');
+    background-size: cover;
+    height: 330px;
+    background-position: 0 -32px;
+}
+.data-infrastructure-page-banner .inner_banner_text{
+	width: 75%;
+}
